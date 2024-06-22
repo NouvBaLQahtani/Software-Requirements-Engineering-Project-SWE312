@@ -13,9 +13,12 @@ here are the mockups screens for the system:
 
 <img width="398" alt="Screenshot 2024-06-23 at 12 49 55 AM" src="https://github.com/NouvBaLQahtani/Software-Requirements-Engineering-Project-SWE312/assets/106460665/2d4148ba-3532-446e-bd35-64c96ad8c720">
 
+<img width="546" alt="Screenshot 2024-06-23 at 12 50 01 AM" src="https://github.com/NouvBaLQahtani/Software-Requirements-Engineering-Project-SWE312/assets/106460665/8204ca02-f0f8-4559-94e7-2e8275b4a64c">
+
+
 <img width="546" alt="Screenshot 2024-06-23 at 12 50 01 AM" src="https://github.com/NouvBaLQahtani/Software-Requirements-Engineering-Project-SWE312/assets/106460665/d862f81b-f7d7-4cd0-a781-a9458b7bcd43"> 
 
-<img width="398" alt="Screenshot 2024-06-23 at 12 49 55 AM" src="https://github.com/NouvBaLQahtani/Software-Requirements-Engineering-Project-SWE312/assets/106460665/06a8f42e-5682-4db3-855b-4be1a2f46e5e"> 
+
 
 
 ## System Functionality
