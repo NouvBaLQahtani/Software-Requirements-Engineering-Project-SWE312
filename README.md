@@ -6,6 +6,8 @@ The entertainment industry in Saudi Arabia has witnessed a significant growth in
 
 ## Project Objective
 The aim of this project is to develop a single interactive iOS application called "Entertainment in a Click" to address the challenges faced in the entertainment industry in Saudi Arabia. The application will provide a centralized platform for managing and organizing entertainment activities. This project focuses on specifying the requirements and UML models for the SBMS system. and providing a screen mockups for the system.
+
+
 here are the mockups screens for the system: 
 
 
